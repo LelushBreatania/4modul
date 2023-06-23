@@ -4,3 +4,5 @@ if slovo == a:
   print("yes")
 else:
   print("no")
+
+print('lol')
